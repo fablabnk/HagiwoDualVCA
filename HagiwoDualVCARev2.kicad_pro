@@ -130,7 +130,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -231,6 +231,7 @@
   "erc": {
     "erc_exclusions": [
       "lib_symbol_issues|1206500|1574800|14e7766b-dfc5-4d6b-bb3a-13778510c9db|00000000-0000-0000-0000-000000000000|||",
+      "lib_symbol_issues|1206500|1638300|14e7766b-dfc5-4d6b-bb3a-13778510c9db|00000000-0000-0000-0000-000000000000|||",
       "lib_symbol_issues|1206500|812800|2df2a855-2adc-428f-85cd-3a3b678f27a4|00000000-0000-0000-0000-000000000000|||",
       "lib_symbol_issues|2400300|1397000|5d432fc8-91ae-4b24-bbff-a87cf2b3bb83|00000000-0000-0000-0000-000000000000|||",
       "lib_symbol_issues|2463800|1397000|5d432fc8-91ae-4b24-bbff-a87cf2b3bb83|00000000-0000-0000-0000-000000000000|||",
@@ -530,25 +531,25 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -578,7 +579,13 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Silkscreen Value",
+          "name": "Silkscreen Value",
+          "show": true
         }
       ],
       "filter_string": "",
