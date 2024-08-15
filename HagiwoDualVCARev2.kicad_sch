@@ -7909,7 +7909,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5K"
+		(property "Value" "7.5k"
 			(at 232.41 133.604 90)
 			(effects
 				(font
@@ -13809,7 +13809,7 @@
 				)
 			)
 		)
-		(property "Silkscreen Value" ""
+		(property "Silkscreen Value" "10K LIN 1▼"
 			(at 36.83 82.55 0)
 			(effects
 				(font

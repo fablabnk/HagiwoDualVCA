@@ -14,7 +14,7 @@ PWR1,IDC-Header_2x05_P2.54mm_Vertical_Euro_Power_Striped_ThickerText,1,Eurorack_
 "R10, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,2.2k,
 "R11, R12",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,150k,
 "R13, R14, R17, R18",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4,470,
-R19,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,7.5K,
+R19,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,7.5k,
 "R3, R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,33k,
 "R4, R8",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,22k,
 "RV1, RV10, RV5, RV9",Pot_9mm_DShaft_RemovedPins4_5,4,10k LIN,
