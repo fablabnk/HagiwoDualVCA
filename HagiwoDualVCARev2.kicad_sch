@@ -7106,6 +7106,15 @@
 				(hide yes)
 			)
 		)
+		(property "Silkscreen Value" "TL074▶"
+			(at 138.43 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "56e84954-8f95-4a13-9156-740fae159009")
 		)
@@ -7323,7 +7332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" " ATTN 2"
+		(property "Description" "ATTN 2"
 			(at 30.48 127 0)
 			(effects
 				(font
@@ -8012,6 +8021,15 @@
 				(hide yes)
 			)
 		)
+		(property "Silkscreen Value" "TL074▶"
+			(at 138.43 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "56e84954-8f95-4a13-9156-740fae15900a")
 		)
@@ -8108,6 +8126,15 @@
 			)
 		)
 		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
+			(at 85.09 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "TL074▶"
 			(at 85.09 43.18 0)
 			(effects
 				(font
@@ -9434,7 +9461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" " OFFSET 2"
+		(property "Description" "OFFSET 2"
 			(at 29.21 140.97 0)
 			(effects
 				(font
@@ -11734,7 +11761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" " OFFSET 1"
+		(property "Description" "OFFSET 1"
 			(at 29.21 58.42 0)
 			(effects
 				(font
@@ -12073,7 +12100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" " ATTN 1"
+		(property "Description" "ATTN 1"
 			(at 30.48 44.45 0)
 			(effects
 				(font
@@ -12869,7 +12896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" " CURVE 1"
+		(property "Description" "CURVE 1"
 			(at 99.06 56.134 0)
 			(effects
 				(font
@@ -12940,6 +12967,15 @@
 			)
 		)
 		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
+			(at 85.09 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "TL074▶"
 			(at 85.09 125.73 0)
 			(effects
 				(font
@@ -13115,6 +13151,15 @@
 			)
 		)
 		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
+			(at 261.62 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "TL074▶"
 			(at 261.62 139.7 0)
 			(effects
 				(font
