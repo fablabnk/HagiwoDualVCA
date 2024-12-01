@@ -7290,6 +7290,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 36.83 123.19 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7297,7 +7298,7 @@
 		(dnp no)
 		(uuid "1bc9c152-a7a6-4757-80ff-f76d7069c894")
 		(property "Reference" "RV5"
-			(at 34.29 121.9199 0)
+			(at 34.29 124.4601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7306,7 +7307,7 @@
 			)
 		)
 		(property "Value" "10k LIN"
-			(at 34.29 124.4599 0)
+			(at 34.29 121.9201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7333,7 +7334,7 @@
 			)
 		)
 		(property "Description" "ATTN 2"
-			(at 30.48 127 0)
+			(at 30.48 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9419,6 +9420,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 36.83 137.16 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9426,7 +9428,7 @@
 		(dnp no)
 		(uuid "5b767276-ef1b-4f71-b1fa-2f299f23e846")
 		(property "Reference" "RV6"
-			(at 34.29 135.8899 0)
+			(at 34.798 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9435,7 +9437,7 @@
 			)
 		)
 		(property "Value" "50k LIN"
-			(at 34.29 138.4299 0)
+			(at 34.798 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9462,7 +9464,7 @@
 			)
 		)
 		(property "Description" "OFFSET 2"
-			(at 29.21 140.97 0)
+			(at 29.718 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10827,8 +10829,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 92.71 134.62 0)
-		(mirror y)
+		(at 92.71 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10836,7 +10837,7 @@
 		(dnp no)
 		(uuid "8c6a319d-5259-4e01-8d76-9174dc8fa87e")
 		(property "Reference" "RV10"
-			(at 95.25 133.3499 0)
+			(at 95.25 135.8901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10845,7 +10846,7 @@
 			)
 		)
 		(property "Value" "10k LIN"
-			(at 95.25 135.8899 0)
+			(at 95.25 133.3501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10872,7 +10873,7 @@
 			)
 		)
 		(property "Description" "CURVE 2"
-			(at 99.568 138.684 0)
+			(at 99.568 130.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11719,6 +11720,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 36.83 54.61 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11726,7 +11728,7 @@
 		(dnp no)
 		(uuid "b8d6734f-edc1-41d5-9c4d-a3dab699c6c3")
 		(property "Reference" "RV2"
-			(at 34.29 53.3399 0)
+			(at 34.798 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11735,7 +11737,7 @@
 			)
 		)
 		(property "Value" "50k LIN"
-			(at 34.29 55.8799 0)
+			(at 34.798 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11762,7 +11764,7 @@
 			)
 		)
 		(property "Description" "OFFSET 1"
-			(at 29.21 58.42 0)
+			(at 29.718 53.0859 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12058,6 +12060,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 36.83 40.64 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12065,7 +12068,7 @@
 		(dnp no)
 		(uuid "bd5d4ecc-215e-495e-8cb8-a1cf8bc05420")
 		(property "Reference" "RV1"
-			(at 34.29 39.3699 0)
+			(at 34.29 41.9101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12074,7 +12077,7 @@
 			)
 		)
 		(property "Value" "10k LIN"
-			(at 34.29 41.9099 0)
+			(at 34.29 39.3701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12101,7 +12104,7 @@
 			)
 		)
 		(property "Description" "ATTN 1"
-			(at 30.48 44.45 0)
+			(at 30.48 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12852,8 +12855,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 92.71 52.07 0)
-		(mirror y)
+		(at 92.71 52.07 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12861,7 +12863,7 @@
 		(dnp no)
 		(uuid "e596b4ad-7b32-406b-97b1-192651e61299")
 		(property "Reference" "RV9"
-			(at 95.25 50.7999 0)
+			(at 95.25 53.3401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12870,7 +12872,7 @@
 			)
 		)
 		(property "Value" "10k LIN"
-			(at 95.25 53.3399 0)
+			(at 95.25 50.8001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12897,7 +12899,7 @@
 			)
 		)
 		(property "Description" "CURVE 1"
-			(at 99.06 56.134 0)
+			(at 99.06 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)

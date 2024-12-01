@@ -1,3 +1,8 @@
+# V1.1
+
+- Reinstall hardman font
+- Reversed pots (pins 1 and 3) 
+
 # V1.0
 
 ## Things to pay attention to whilst building
